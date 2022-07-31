@@ -1,0 +1,12 @@
+{
+  "name": "phi-dssqer",
+  "version": "v1.0",
+  "license": "WTFPL",
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^9.0.2",
+    "press-any-key": "^0.1.1"
+  }
+}
