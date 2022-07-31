@@ -23,6 +23,8 @@ var settings;
         chalk.bold('=================================================') + '\n'
     );
 
+    console.log('i) 项目初衷见 https://github.com/MisaLiu/phi-dssqer#why' + '\n');
+
     if (!originChartPath || originChartPath == '')
     {
         console.log(chalk.red.bold('w) 本程序不可直接运行，请将官方谱面文件拖拽至此程序上打开，或是在命令行中传入谱面路径参数给本程序'));

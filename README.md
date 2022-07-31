@@ -26,8 +26,10 @@
 
 ~~感觉有点像不要笑挑战~~
 
+所以做了这个项目用来整点乐子。
+
 个人意见，感觉不如做点去掉判定线透明度事件的视频，至少这种视频还能拿去给新人谱师研究官谱是怎么写的。
 
 ## LICENSE
 
-See License.
+See [License](https://github.com/MisaLiu/phi-dssqer/blob/master/LICENSE).
